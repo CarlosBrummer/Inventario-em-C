@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627171217 source:c:\users\carlos\documents\github\inventario-em-c\projetoinv\main.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<Locale.h>
+	<windows.h>
+
